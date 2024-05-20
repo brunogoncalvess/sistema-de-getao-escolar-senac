@@ -9,7 +9,7 @@
 - Aline Arruda Bisso
 - Bruno Ribeiro da Silva Gonçalves
 - Danielle Rossetti Rodrigues
-- Henrique Bisetto
+- Leonardo de Sousa
 - André Sabino Francisco da Silva
 
 
